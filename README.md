@@ -1,7 +1,7 @@
 # Image-processing-in-frequency-domain
 Image processing in frequency domain
 
-"experiment report.pdf" is experiment report,you can regrad it as instruction.
+"experiment report.pdf" is experiment report,and you can regrad it as instruction.
 "rect.bmp" "rect-45度.bmp" "rect-move.bmp" "grid.bmp" "lena.bmp" and "cave.jpg" are experimental objects.
 "fourier.py" "high-pass and low-pass.py" "sine-wave.py" and "homomorphism.py" are python scripts
 
